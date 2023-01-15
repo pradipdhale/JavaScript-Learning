@@ -161,7 +161,12 @@ let text10 = text9.trim();
 console.log(text9);
 console.log(text10);
 
+// The trimStart() method works like trim(), but removes whitespace only from the start of a string.
 
+// The trimEnd() method works like trim(), but removes whitespace only from the end of a string.
+
+
+// A string can be converted to an array with the split() method:
 
 
 
